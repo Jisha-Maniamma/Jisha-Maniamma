@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jisha-Maniamma
 - 👀 I’m interested in programming 💻, Dancing 💃 , Travelling 
-- 🌱 I’m currently semantic web, learning Backend and Frontend technology
+- 🌱 I’m working on semantic web + learning Backend and Frontend technology
 - 💞️ I am really amazed by Semantic web Technology, Machine learning, robotics, Outer Space. 
 - 📫 jisha pillai 1991 at yahoo dot co dot in [safe side ;) ☺ ]
 
