@@ -1,5 +1,4 @@
-- 👋 Hi, I’m 
-- <a href="https://www.linkedin.com/in/dr-maniamma-jisha-pillai-4087a947/"><h1>@Jisha-Maniamma</h1></a>
+- 👋 Hi, I’m <a href="https://www.linkedin.com/in/dr-maniamma-jisha-pillai-4087a947/"><h1>@Jisha-Maniamma</h1></a>
 
 - 👀 I’m interested in programming 💻, Dancing 💃 , Travelling 
 - 🌱 I’m working on semantic web + learning Backend and Frontend technology
