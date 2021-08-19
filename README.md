@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <h1>@Jisha-Maniamma</h1>
-- 👀 I’m interested in programming 💻, Dancing 💃 , Travelling 
+- 👀 I’m interested in <h3>programming</h3> 💻, <h3>Dancing</h3> 💃 , <h3>Travelling </h3>
 - 🌱 I’m working on semantic web + learning Backend and Frontend technology
 - 💞️ I am really amazed by Semantic web Technology, Machine learning, robotics, Outer Space. 
 - 📫 jisha pillai 1991 at yahoo dot co dot in [safe side ;) ☺ ]
