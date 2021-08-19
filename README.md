@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming 💻, Dancing 💃 , Travelling 
 - 🌱 I’m working on semantic web + learning Backend and Frontend technology
 - 💞️ I am really amazed by Semantic web Technology, Machine learning, robotics, Outer Space. 
-- 📫 jisha pillai 1991 at yahoo dot co dot in [safe side ;) ☺ ]
+- 📫 jisha pillai 1991 at gmail dot com [safe side ;) ☺ ]
 
 To know more ====> System.out.println(https://jisha-maniamma.github.io/CV/  --->  https://jisha-maniamma.github.io/Cv_Jisha/);
 
