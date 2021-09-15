@@ -12,7 +12,7 @@ To know more ====> System.out.println(https://jisha-maniamma.github.io/CV/  --->
   check out this basic responsive webpage ->
                                               https://jisha-maniamma.github.io/CatMatrimony/
                                               
- <h3><strong>COVID Status around the Globe </strong></h3> 
+ <h3><strong>Slf updating COVID-19 Status (Counts) around the Globe </strong></h3> 
   check out this basic responsive webpage ->                                             
                                               https://covid19tracker-v1.herokuapp.com/home/Covid19/Tracker/HomePage                                           
 <!---
