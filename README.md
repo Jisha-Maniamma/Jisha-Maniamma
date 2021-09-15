@@ -11,6 +11,10 @@ To know more ====> System.out.println(https://jisha-maniamma.github.io/CV/  --->
 <h3><strong>Do you have a cat?</strong></h3> 
   check out this basic responsive webpage ->
                                               https://jisha-maniamma.github.io/CatMatrimony/
+                                              
+ <h3><strong>COVID Stus around the Globe </strong></h3> 
+  check out this basic responsive webpage ->                                             
+                                              https://covid19tracker-v1.herokuapp.com/home/Covid19/Tracker/HomePage                                           
 <!---
 Jisha-Maniamma/Jisha-Maniamma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
