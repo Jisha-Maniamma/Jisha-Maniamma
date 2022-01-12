@@ -7,6 +7,7 @@
 - 💞️ I am really amazed by Semantic web Technology, Machine learning, robotics, Outer Space. 
 - 📫 jisha pillai 1991 at gmail dot com [safe side ;) ☺ ]
 
+<img align="right" width="100" height="100" src="https://github.com/Jisha-Maniamma/Jisha-Maniamma/blob/main/Program.gif?raw=true">
 To know more ====> System.out.println(https://jisha-maniamma.github.io/CV/  --->  https://jisha-maniamma.github.io/Cv_Jisha/);
 
 
