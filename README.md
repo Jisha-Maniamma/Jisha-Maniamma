@@ -1,6 +1,6 @@
 
 <img src="https://media.istockphoto.com/vectors/pop-art-woman-giving-thumbs-up-vector-id1221267261?k=20&m=1221267261&s=612x612&w=0&h=4RdxC-NZNg-LjCjboM6-vSsBo-j5en_QGsfbzeWJXNU="  width="200" height="200" style="border-radius: 50%;display:block;margin-right:auto;margin-left:auto">
-- 👋 Hi, I’m <a  href="https://www.linkedin.com/in/dr-maniamma-jisha-pillai-4087a947/"><h1 style="text-decoration: underline;">Jisha-Maniamma</h1></a>
+- 👋 Hi, I’m <a  href="https://www.linkedin.com/in/dr-maniamma-jisha-pillai-4087a947/">Jisha-Maniamma</a>
  
 
 - 👀 I’m interested in programming 💻, Dancing 💃 , Travelling 
