@@ -1,13 +1,13 @@
 
 <img src="https://media.istockphoto.com/vectors/pop-art-woman-giving-thumbs-up-vector-id1221267261?k=20&m=1221267261&s=612x612&w=0&h=4RdxC-NZNg-LjCjboM6-vSsBo-j5en_QGsfbzeWJXNU="  width="200" height="200" style="border-radius: 50%;display:block;margin-right:auto;margin-left:auto">
 - 👋 Hi, I’m <a  href="https://www.linkedin.com/in/dr-maniamma-jisha-pillai-4087a947/"><h1 style="text-decoration: underline;">@Jisha-Maniamma</h1></a>
-
+<img align="right" width="100" height="100" src="https://github.com/Jisha-Maniamma/Jisha-Maniamma/blob/main/Program.gif?raw=true">
 - 👀 I’m interested in programming 💻, Dancing 💃 , Travelling 
 - 🌱 I’m working on semantic web + learning Backend and Frontend technology
 - 💞️ I am really amazed by Semantic web Technology, Machine learning, robotics, Outer Space. 
 - 📫 jisha pillai 1991 at gmail dot com [safe side ;) ☺ ]
 
-<img align="right" width="100" height="100" src="https://github.com/Jisha-Maniamma/Jisha-Maniamma/blob/main/Program.gif?raw=true">
+
 To know more ====> System.out.println(https://jisha-maniamma.github.io/CV/  --->  https://jisha-maniamma.github.io/Cv_Jisha/);
 
 
