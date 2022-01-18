@@ -1,17 +1,13 @@
 
-<table>
-<thead>  
-</thead>
-<tbody>
-    <tr>
-        <td ><img src="https://media.istockphoto.com/vectors/pop-art-woman-giving-thumbs-up-vector-id1221267261?k=20&m=1221267261&s=612x612&w=0&h=4RdxC-NZNg-LjCjboM6-vSsBo-j5en_QGsfbzeWJXNU="  width="200" height="200" style="border-radius: 50%;display:block;margin-right:auto;margin-left:auto;padding-left: 300px;text-align: center !important;visibility: hidden"></td>
-        <td><img src="https://media.istockphoto.com/vectors/pop-art-woman-giving-thumbs-up-vector-id1221267261?k=20&m=1221267261&s=612x612&w=0&h=4RdxC-NZNg-LjCjboM6-vSsBo-j5en_QGsfbzeWJXNU="  width="200" height="200" style="border-radius: 50%;display:block;margin-right:auto;margin-left:auto;padding-left: 300px;text-align: center !important;"></td>
-        <td></td>
-    </tr>
-</tbody>
-</table>
-    
-<img src="https://media.istockphoto.com/vectors/pop-art-woman-giving-thumbs-up-vector-id1221267261?k=20&m=1221267261&s=612x612&w=0&h=4RdxC-NZNg-LjCjboM6-vSsBo-j5en_QGsfbzeWJXNU="  width="200" height="200" style="border-radius: 50%;display:block;margin-right:auto;margin-left:auto;padding-left: 300px;text-align: center !important;">
+
+
+
+<p align="center">
+  <img width="200" height="200" src="https://media.istockphoto.com/vectors/pop-art-woman-giving-thumbs-up-vector-id1221267261?k=20&m=1221267261&s=612x612&w=0&h=4RdxC-NZNg-LjCjboM6-vSsBo-j5en_QGsfbzeWJXNU=" >
+</p>
+     
+     
+
 - 👋 Hi, I’m <a  href="https://www.linkedin.com/in/dr-maniamma-jisha-pillai-4087a947/" style="
     font-size: 1.5rem;
 ">Jisha-Maniamma</a>
